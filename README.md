@@ -12,9 +12,7 @@ Indice:
 filterscripts
 
 gamemodes
-
 plugins
-
 npcmodes
 pawno
 include
