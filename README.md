@@ -8,3 +8,14 @@ Esta guía está basada en el estado de SA-MP a inicios del año 2015, si usted 
 
 Indice:
 1. Configuración, explicación, funciones, dialogs entre otrós.
+
+filterscripts
+gamemodes
+plugins
+npcmodes
+pawno
+include
+announce.exe
+samp-npc.exe
+samp-server.exe
+server.cfg
