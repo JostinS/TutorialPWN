@@ -59,9 +59,8 @@ Dialog de lista (menú, muestra a los jugadores una lista de opciones)
 Dialog de contraseña (permite a los jugadores colocar texto en el dialog, sin revelar el texto)
 #
 
-
-
-
+Creando Objectos
+Instalar Streamer
 
 
 
