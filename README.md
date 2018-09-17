@@ -5,3 +5,8 @@ Esta guía esta basada en diversas guías y en mi propia experiencia. Guía crea
 * Nota: es importante que el usuario tenga el mayor conocimiento posible del idioma inglés, dado que el lenguaje de programación Pawn está basado en este idioma.
 
 Esta guía está basada en el estado de SA-MP a inicios del año 2015, si usted lee esto en otro tiempo es probable que algunos elementos hayan cambiado y/o actualizado.
+
+Basado en:
+* Nicholas tutorial
+* Kwarde Tutorial
+* Wiki SA-MP
