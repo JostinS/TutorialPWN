@@ -10,7 +10,6 @@ Indice:
 1. Configuración, explicación, funciones, dialogs entre otrós.
 
 filterscripts
-
 gamemodes
 plugins
 npcmodes
