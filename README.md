@@ -17,11 +17,10 @@ announce.exe
 samp-npc.exe
 samp-server.exe
 server.cfg
-
-
+#
 2. Configuración
 
-# Publics
+Publics
 public OnGameModeInit()
 
 public OnPlayerRequestClass(playerid, classid)
@@ -38,12 +37,13 @@ public OnPlayerText(playerid)
 
 public OnPlayerUpdate(playerid)
 
-# Funciones
+# 
+Funciones
 SetPlayerPos(playerid, X, Y, Z);
 
 TextDrawCreate(X, Y, text[])
-
-# Dialogs
+#
+Dialogs
 
 ShowPlayerDialog(playerid, dialogid, style, caption[], info[], button1[], button2[]);
 
@@ -54,7 +54,6 @@ Dialog de texto (permite a los jugadores colocar texto en el dialog)
 Dialog de lista (menú, muestra a los jugadores una lista de opciones)
 
 Dialog de contraseña (permite a los jugadores colocar texto en el dialog, sin revelar el texto)
-#
 #
 
 
