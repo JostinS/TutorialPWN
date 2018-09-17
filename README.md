@@ -1,5 +1,4 @@
-# TutorialPWN
-[Tutorial] Conocimiento basico sobre PAWNO.
+# Conocimiento basico sobre PAWNO.
 
 Esta guía esta basada en diversas guías y en mi propia experiencia. Guía creada especialmente para nuevos scripters y usuarios a los que les gustaría aprender sobre el lenguaje Pawn en SA-MP; explicando solo lo básico y cómo empezar.
 
