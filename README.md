@@ -5,7 +5,7 @@ Esta guía esta basada en diversas guías y en mi propia experiencia. Guía crea
 * Nota: es importante que el usuario tenga el mayor conocimiento posible del idioma inglés, dado que el lenguaje de programación Pawn está basado en este idioma.
 
 Indice:
-1. Explicando cada archivo y carpeta (solo los básicos)
+* 1. Explicando cada archivo y carpeta (solo los básicos)
 
 filterscripts
 gamemodes
@@ -18,7 +18,7 @@ samp-npc.exe
 samp-server.exe
 server.cfg
 #
-2. Configuración
+* 2. Configuración
 
 Publics
 public OnGameModeInit()
@@ -39,6 +39,7 @@ public OnPlayerUpdate(playerid)
 
 # 
 Funciones
+
 SetPlayerPos(playerid, X, Y, Z);
 
 TextDrawCreate(X, Y, text[])
