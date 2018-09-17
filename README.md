@@ -21,7 +21,7 @@ server.cfg
 
 2. Configuración
 
-Publics
+* Publics
 public OnGameModeInit()
 
 public OnPlayerRequestClass(playerid, classid)
@@ -38,12 +38,12 @@ public OnPlayerText(playerid)
 
 public OnPlayerUpdate(playerid)
 
-Funciones
+* Funciones
 SetPlayerPos(playerid, X, Y, Z);
 
 TextDrawCreate(X, Y, text[])
 
-Dialogs
+* Dialogs
 
 ShowPlayerDialog(playerid, dialogid, style, caption[], info[], button1[], button2[]);
 
