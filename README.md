@@ -4,10 +4,8 @@ Esta guía esta basada en diversas guías y en mi propia experiencia. Guía crea
 
 * Nota: es importante que el usuario tenga el mayor conocimiento posible del idioma inglés, dado que el lenguaje de programación Pawn está basado en este idioma.
 
-Esta guía está basada en el estado de SA-MP a inicios del año 2015, si usted lee esto en otro tiempo es probable que algunos elementos hayan cambiado y/o actualizado.
-
 Indice:
-1. Configuración, explicación, funciones, dialogs entre otrós.
+1. Explicando cada archivo y carpeta (solo los básicos)
 
 filterscripts
 gamemodes
@@ -19,3 +17,25 @@ announce.exe
 samp-npc.exe
 samp-server.exe
 server.cfg
+
+
+2. Configuración
+
+Publics
+public OnGameModeInit()
+
+public OnGameModeExit()
+
+public OnPlayerRequestClass(playerid, classid)
+
+public OnPlayerConnect(playerid)
+
+public OnPlayerSpawn(playerid)
+
+public OnPlayerDeath(playerid)
+
+public OnPlayerDisconnect(playerid, reason)
+
+public OnPlayerText(playerid)
+
+public OnPlayerUpdate(playerid)
