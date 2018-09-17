@@ -6,7 +6,5 @@ Esta guía esta basada en diversas guías y en mi propia experiencia. Guía crea
 
 Esta guía está basada en el estado de SA-MP a inicios del año 2015, si usted lee esto en otro tiempo es probable que algunos elementos hayan cambiado y/o actualizado.
 
-Basado en:
-* Nicholas tutorial
-* Kwarde Tutorial
-* Wiki SA-MP
+Indice:
+1. Configuración, explicación, funciones, dialogs entre otrós.
